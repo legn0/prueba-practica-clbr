@@ -1,0 +1,2 @@
+Un proceso relevantr que deba ser ejecutado cada cierto tiempo es el de verificar por cambios de activación
+en los precios, es decir, al activar un nuevo precio para un producto el desactivar los otros precios relacionados a este.
