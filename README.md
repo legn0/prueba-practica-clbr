@@ -44,3 +44,5 @@ La pregunta 2 será contestada en un archivo .txt en la carpeta python-sql.
 Para probar la aplicacion hay que correr el servidor de flask, ejecutando main.py en la carpeta python-sql, y la aplicacion de react, ejecutando npm start en la carpeta prueba-practica-clbra.
 
 Inicialmente se ve vacio, al ingresar cualquier cosa a la barra de busqueda y borrandolo aparecen los datos. Luego de eso el filtro dunciona correctamente, filtrando los nombres que no contengan el string buscado. Al modificar el contenido de la barra de busqueda se "resetea el filtro", para que se vean los elementos ocultandose uno a uno por segundo.
+
+db_definition.py contiene las queries de sql para la creacion de tablas e incersion de datos a la base de datos
